@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Sales Report 2024.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
